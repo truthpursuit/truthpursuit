@@ -1,0 +1,72 @@
+
+Truth Pursuit
+=============
+
+   Truth Pursuit is a trivia tournament held in the Archdiocese of Anchorage
+   which encourages junior high and senior high students to increase their
+   knowledge of the Catholic faith.  
+
+   The goal of this project is to provide software which helps youth and
+   adult volunteers facilitate the tournament, provides a reliable and
+   automated game "board", and allows other dioceses to easily host
+   tournaments.
+
+   If you are interested in contributing to this project or the tournament,
+   please contact David M. Syzdek at syzdek@bindlebinaries.com.
+
+
+Contents
+--------
+
+   1. Disclaimer
+   2. Maintainers
+   3. Source Code
+
+
+Disclaimer
+==========
+
+   This software is provided by the copyright holders and contributors "as
+   is" and any express or implied warranties, including, but not limited to,
+   the implied warranties of merchantability and fitness for a particular
+   purpose are disclaimed. In no event shall Catholic Truth Pursuit be liable
+   for any direct, indirect, incidental, special, exemplary, or consequential
+   damages (including, but not limited to, procurement of substitute goods or
+   services; loss of use, data, or profits; or business interruption) however
+   caused and on any theory of liability, whether in contract, strict
+   liability, or tort (including negligence or otherwise) arising in any way
+   out of the use of this software, even if advised of the possibility of
+   such damage.
+
+
+Maintainers
+===========
+
+   David M. Syzdek
+   Bindle Binaries
+   syzdek@bindlebinaries.com
+
+
+Source Code
+===========
+
+   The source code for this project is maintained using git
+   (http://git-scm.com).  The following contains information to checkout the
+   source code from the git repository.
+
+   Browse Source:
+      https://github.com/truthpursuit/truthpursuit
+
+   Git URLs:
+      git://github.com/truthpursuit/truthpursuit.git
+
+   Downloading Source:
+
+      $ git clone git://github.com/truthpursuit/truthpursuit.git
+
+   Git Branches:
+      master - Current release of packages.
+      next   - changes staged for next release
+      pu     - proposed updates for next release
+      xx/yy+ - branch for testing new changes before merging to 'pu' branch
+
