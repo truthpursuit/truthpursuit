@@ -5,7 +5,22 @@ Truth Pursuit Design
 Contents
 --------
 
-   1. Requirements
+   1. Priorities
+   2. Requirements
+
+
+Priorities
+==========
+
+   1.  Preserve the functionality of the current Power Point game board.
+   2.  Move to technologies which allow questions and categories to be easily
+       exported, imported, and edited.
+   3.  Implement a solution which automates "setting up" the game board (no
+       manual editing/linking).
+   4.  Implement solution which can run on outdated hardware/software (5-10
+       year old computers).
+   5.  Improve the game board by adding automation and game logic.
+   6.  Add pizazz to game board.
 
 
 Requirements
