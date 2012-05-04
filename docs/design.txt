@@ -1,0 +1,52 @@
+
+Truth Pursuit Design
+====================
+
+Contents
+--------
+
+   1. Requirements
+
+
+Requirements
+============
+
+   I.    Tournament Editor
+         A. Must run on multiple platforms.
+            1. Windows XP and higher.
+            2. OS X 10.5 and higher.
+         B. Must have minimal software prerequisites.
+         C. Must run on old hardware.
+         D. Must be able to merge multiple data files into a single file.
+         E. Must be able to add, modify, and delete questions.
+            1. Edit game board question (required).
+            2. Edit game board answer (required).
+            3. Edit judges' hint (optional).
+            4. Edit date quest was last asked (optional).
+            5. Edit bibliography source (optional).
+            6. Edit bibliography page/paragraph/section/etc source (optional)
+            7. Assign/reassign question category.
+         F. Must be able to add, modify, and delete question categories.
+            1. Edit category name (required).
+            2. Associate bibliography information (optional).
+         G. Must be able to add, modify, and delete bibliography information.
+         H. Must be able to export study guides for selected categories.
+         I. Must be able to export judges' answer sheet for selected category.
+         J. Must be able to generate and export an HTML game board.
+
+   II.   Tournament File Format
+         A. Files must be platform independent.
+            1. Files can be created on any supported platform.
+            2. FIles can be read on any supported platform.
+         B. Files must be mutable (i.e. can be edited).
+         C. Data must be self-contained and not require multiple files.
+         D. Format must support merging multiple files into one file.
+
+   III.  Tournament Game Board HTML
+         A. Must not require a web server.
+         B. Must function with Chrome and Firefox on supported platforms.
+         C. Perform the functionality of the current power point files.
+
+   IV.   Tournament Game Board Software
+
+
